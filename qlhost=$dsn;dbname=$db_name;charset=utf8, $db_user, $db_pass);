@@ -1,0 +1,11 @@
+[33mcommit f131021111ad362c077b8e12907a924dc9293577[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: James Diaz <jamesdiaz1301@gmail.com>
+Date:   Mon Mar 1 14:52:22 2021 +0800
+
+    added gradient background
+
+[33mcommit e0ed49d0986ca810650298c30c09afd95799b3d4[m
+Author: James Diaz <jamesdiaz1301@gmail.com>
+Date:   Mon Mar 1 14:40:03 2021 +0800
+
+    Registration Form with Javascript validation
